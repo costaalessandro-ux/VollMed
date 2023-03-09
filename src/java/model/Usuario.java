@@ -1,11 +1,11 @@
 
 package model;
 
-public class Usuarios {
+public class usuario {
     
     private String login,senha;
     
-    public Usuarios(){
+    public usuario(){
         
     }
     
