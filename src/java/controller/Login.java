@@ -1,5 +1,5 @@
 package controller;
 
-public class login {
+public class Login {
     
 }
